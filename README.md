@@ -61,7 +61,7 @@ This project reflects how **Product Managers** and **Analysts** approach:
 ## 🔗 Project Preview
 
 📥 [Click here to download the Excel file](#)  
-*(Update with actual download or repo link)*
+*(https://github.com/sanjPixelPioneer/Pricing_Simulator/blob/main/A%20pricing%20simulator.xlsx)*
 
 ## 👩🏻 Author
 
