@@ -2,13 +2,9 @@
 
 *A dynamic pricing simulator built using Microsoft Excel, designed to demonstrate how demand trends, seasonal changes, stock levels, and competitor prices impact product pricing decisions.*
 
----
-
 ## 📌 Project Summary
 
 This project simulates a **real-world pricing model** for a set of products across categories like **Apparel** and **Home**. It applies **conditional pricing logic** and calculates final prices based on business factors. The output is visualized via an **interactive dashboard** using pivot tables, charts, and slicers.
-
----
 
 ## 🚀 Features
 
@@ -36,8 +32,6 @@ Adjusts prices using:
   - % Competitively Priced Products  
   - Overall Profitability
 
----
-
 ## 📁 File Included
 
 **`Product_Pricing_Dashboard_Sanjana.xlsx`**  
@@ -48,8 +42,6 @@ Includes:
 - Competitor tagging  
 - Interactive dashboard with slicers and charts
 
----
-
 ## 🛠️ Tools Used
 
 - Microsoft Excel  
@@ -57,8 +49,6 @@ Includes:
 - Pivot Tables & Charts  
 - Conditional Formatting  
 - Dashboard Design with Slicers
-
----
 
 ## 💡 Use Case
 
@@ -68,18 +58,14 @@ This project reflects how **Product Managers** and **Analysts** approach:
 - Data-backed product planning  
 - Dashboard storytelling for stakeholders
 
----
-
 ## 🔗 Project Preview
 
 📥 [Click here to download the Excel file](#)  
 *(Update with actual download or repo link)*
-
----
 
 ## 👩🏻 Author
 
 **Sanjana S Makkannavar**  
 🎓 *BTech ECE | Aspiring Product Analyst*  
 📧 *sanjanamakks@gmail.com*  
-🔗 [LinkedIn](#) *(Insert your LinkedIn profile link here)*
+🔗 [LinkedIn](#) *(www.linkedin.com/in/sanjana-s-makkannavar-76886424a)*
