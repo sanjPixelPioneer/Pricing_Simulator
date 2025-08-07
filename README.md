@@ -58,14 +58,16 @@ This project reflects how **Product Managers** and **Analysts** approach:
 - Data-backed product planning  
 - Dashboard storytelling for stakeholders
 
-## 🔗 Project Preview
-
-📥 Click here to download the Excel file
-*(https://github.com/sanjPixelPioneer/Pricing_Simulator/blob/main/A%20pricing%20simulator.xlsx)*
-
-## 👩🏻 Author
-
 **Sanjana S Makkannavar**  
 🎓 *BTech ECE | Aspiring Product Analyst*  
-📧 *sanjanamakks@gmail.com*  
-🔗 [LinkedIn](#) *(www.linkedin.com/in/sanjana-s-makkannavar-76886424a)*
+
+🔗 Project Preview  
+📥 [Click here to view or download the Excel + SQL files](https://github.com/sanjPixelPioneer/Pricing_Simulator/blob/main/A%20pricing%20simulator.xlsx)
+
+
+👩🏻 Author  
+**Sanjana S Makkannavar**  
+🎓 BTech ECE | Aspiring Product Analyst  
+📧 sanjanamakks@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjana-s-makkannavar-76886424a)  
+🔗 [GitHub](https://github.com/sanjPixelPioneer)
