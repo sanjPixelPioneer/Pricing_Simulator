@@ -62,7 +62,7 @@ This project reflects how **Product Managers** and **Analysts** approach:
 🎓 *BTech ECE | Aspiring Product Analyst*  
 
 🔗 Project Preview  
-📥 [Click here to view or download the Excel + SQL files](https://github.com/sanjPixelPioneer/Pricing_Simulator/blob/main/A%20pricing%20simulator.xlsx)
+📥 [Click here to view or download the Excel](https://github.com/sanjPixelPioneer/Pricing_Simulator/blob/main/A%20pricing%20simulator.xlsx)
 
 
 👩🏻 Author  
