@@ -3,8 +3,7 @@
 *A dynamic pricing simulator built using Microsoft Excel, designed to demonstrate how demand trends, seasonal changes, stock levels, and competitor prices impact product pricing decisions.*
 
 ## 📌 Project Summary
-
-This project simulates a **real-world pricing model** for a set of products across categories like **Apparel** and **Home**. It applies **conditional pricing logic** and calculates final prices based on business factors. The output is visualized via an **interactive dashboard** using pivot tables, charts, and slicers.
+This project simulates a real-world pricing model for a variety of products across categories such as Apparel and Home Goods. It applies conditional pricing logic driven by business factors, calculating final prices and profitability. Insights are communicated via an interactive dashboard featuring pivot tables, charts, and slicers for dynamic filtering.
 
 ## 🚀 Features
 
@@ -15,14 +14,14 @@ Adjusts prices using:
 - **Stock Modifier** (Low vs High inventory)
 
 ### ✅ Profit Margin Analysis
-- Calculates **profit (₹ and %)** using cost and selling price  
+- Calculates **profit** using cost and selling price  
 - Highlights **high-margin** and **low-margin** products
 
 ### ✅ Competitor Benchmarking
 - Benchmarks prices vs competitors  
 - Tags products as:
-  - `Too Expensive`
-  - `OK`
+  - `Expensive`
+  - `Competitive`
 
 ### ✅ Interactive Dashboard
 - Built using **Pivot Tables** and **Pivot Charts** (Column, Pie, Line)
@@ -41,6 +40,8 @@ Includes:
 - Final price & profit calculations  
 - Competitor tagging  
 - Interactive dashboard with slicers and charts
+- Built with Pivot Tables and Pivot Charts (Bar, Pie, Column)
+- Filters and drill-down capabilities using Slicers: Season, Product, Demand Trend
 
 ## 🛠️ Tools Used
 
